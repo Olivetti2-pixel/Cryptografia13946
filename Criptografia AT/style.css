@@ -1,0 +1,13 @@
+table{
+    margin: 0;
+}
+
+textarea{
+    margin: 1px;
+    margin-top: 1px;
+    margin-left: 2px;
+}
+
+.text1{
+    text-align: left;
+}
